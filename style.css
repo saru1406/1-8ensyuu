@@ -5,3 +5,22 @@
   color: #6c6b6b;
 }
 
+.list {
+  margin: 50px auto;
+  width: 960px;
+  font-size: 18px;
+ }
+
+.list-box {
+  margin-bottom: 50px;
+}
+
+.list-text {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.list-text:nth-child(odd){
+background-color: #9e9e9e ;
+}
+
